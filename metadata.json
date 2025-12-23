@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LingoSync Karaoke AI",
+  "description": "An advanced AI-powered trilingual karaoke subtitle generator for language learning through music. Automatically detects song language, extracts lyrics with word-level timing, and generates phonetic romanization and Vietnamese translations.",
+  "requestFramePermissions": []
+}
